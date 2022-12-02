@@ -1,8 +1,8 @@
 let time, h, m, s;
 let carga=1000;
 let siempre =true;
-var datos=[0];
-var segundoDatos=[0];
+var datos=[];
+var segundoDatos=[];
 
 
 //Ponemos las listas vacías
