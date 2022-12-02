@@ -1,3 +1,30 @@
 ul,li{
   display: flex;
 }
+body{
+  font-family: sans-serif;
+  background-color: grey;
+}
+button{
+  width: 200px;
+  height: 50px;
+  background-color: black;
+  color: grey;
+  margin: 0px;
+}
+button:hover{
+  color: yellow;
+}
+h1{
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 50px;
+  font-size: 35px;
+}
+span,p{
+  font-size: 17px;
+}
+input{
+  width: 400px;
+  height: 50px;
+}
